@@ -1,0 +1,83 @@
+.funText{
+	color:white;
+	font-family: 'Just Another Hand', cursive;
+	font-size: 48px/90px;
+}
+.funBody{
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: 24px/45px
+
+}
+.box{
+    width: 400px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 70px auto;
+    background-color: rgba(0,0,0,0.5);
+}
+.orange{
+	background-image: url("orange.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box2{
+	width: 600px;
+    padding: 15px;
+    margin: 100px auto;
+    background-color: rgba(0,0,0,0.5);
+}
+.robinImage{
+	position: static; 
+	width: 100%;
+	margin-left: 175px
+}
+.fruits{
+	background-image: url("fruits.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.funBody2{
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: 30px/65px
+}
+.greenBox{
+	width: 250px;
+    padding: 15px;
+    margin: 50px 300px;
+    background-color: rgba(127,191,63,0.5);
+    text-align: center;
+}
+.yellow{
+	background-image: url("yellow2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box3{
+	width: 650px;
+    padding: 15px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: rgba(63,84,191,0.18);
+}
+.box4{
+	width: 250px;
+    padding: 15px;
+    margin: 15px auto;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    display: block;
+}
+.blue{
+	background-image: url("blue.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bigText{
+	color: white;
+	font-size: 100px;
+	font-family: 'Archivo', sans-serif;
+	font:underline;
+	text-align: center;
+}
