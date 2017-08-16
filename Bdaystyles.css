@@ -7,7 +7,6 @@
 	color: white;
 	font-family: 'Muli', sans-serif;
 	font-size: 24px/45px
-
 }
 .box{
     width: 400px;
@@ -40,7 +39,7 @@
 .funBody2{
 	color: white;
 	font-family: 'Muli', sans-serif;
-	font-size: 30px/65px
+	font-size: 30px/65px;
 }
 .greenBox{
 	width: 250px;
@@ -78,6 +77,50 @@
 	color: white;
 	font-size: 100px;
 	font-family: 'Archivo', sans-serif;
-	font:underline;
 	text-align: center;
 }
+.lightI{
+	background-image: url("final.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box5{
+    width: 250px;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 70px auto;
+}
+.bigTextShad{
+	color:white;
+	font-size: 100px;
+	font-family: 'Archivo', sans-serif;
+	font:underline;
+	text-align: center;
+	text-shadow: 4px 4px 4px #F0F8FF;
+
+
+}
+.cloth{
+	background-image: url("cloth.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.funBody3{
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: 30px/65px;
+	text-align:center;
+}
+.bigText2{
+	color: black;
+	font-size: 100px;
+	font-family: 'Archivo', sans-serif;
+	text-align: center;
+}
+.box7{
+	width: 400px;
+    padding: 15px;
+    margin: 15px auto;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    display: block;
