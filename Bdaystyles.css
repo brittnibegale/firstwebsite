@@ -124,3 +124,21 @@
     background-color: rgba(0,0,0,0.5);
     text-align: center;
     display: block;
+  }
+  .purple{
+	background-image: url("purple.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.wood{
+	background-image: url("wood.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.funBody4{
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: 30px/65px;
+	text-align:right;
+	margin-right: 50px
+}
